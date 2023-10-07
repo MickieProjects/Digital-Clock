@@ -3,6 +3,6 @@
 
 ### Key Function
 
-- Display Hour
-- Display Minute
-- Display Second
+- Display Hours
+- Display Minutes
+- Display Seconds
